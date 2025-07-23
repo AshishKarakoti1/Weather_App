@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Transition } from "@headlessui/react";
 
-const API_KEY = "34afcb0b703c4b17f99dd6f62e48d26e"; // Replace with your working API key
+const API_KEY = "34afcb0b703c4b17f99dd6f62e48d26e";
 
 export default function App() {
   const [city, setCity] = useState("");
